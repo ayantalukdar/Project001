@@ -1,0 +1,4 @@
+# https://python.land/virtual-environments/virtualenv#Python_venv_activation
+# Environment Activation Documentation
+numpy
+pandas
